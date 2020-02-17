@@ -6,6 +6,7 @@ int main() {
 		cout << "I am a doctor";		
 		cout << "I am a doctooooor";		
 		cout << "I am a doctooooor";		
+		cout << "I am a doctooooorrr";		
 		cout << "I am a doctor";
 		cout << "I am not a doctor";
 		
