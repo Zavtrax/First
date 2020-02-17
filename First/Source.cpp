@@ -6,6 +6,6 @@ int main() {
 		cout << "I am doctor";
 		
 		cout << "I am doctor";
-		cout << "I am doctor";
+		
 		
 }
